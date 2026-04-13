@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
 }
+h1 {color: white;}
 
 .heading { 
   background-color: pink ;
@@ -10,7 +11,8 @@
 }
 html { background-color: grey;}
 
-.border1 { background-color:white; border: orange; 5px
+.border1 { background-color:white; 
+  border: 5px solid orange;
 }
 .green { color: rgb(46, 229, 46)}
 .yellow { color: yellow}
