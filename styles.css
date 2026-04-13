@@ -2,3 +2,16 @@
     box-sizing: border-box;
 }
 
+.heading { 
+  background-color: pink ;
+}
+#white {
+ color: white
+}
+html { background-color: grey;}
+
+.border1 { background-color:white; border: orange; 5px
+}
+.green { color: rgb(46, 229, 46)}
+.yellow { color: yellow}
+.blue { color: lightblue}
