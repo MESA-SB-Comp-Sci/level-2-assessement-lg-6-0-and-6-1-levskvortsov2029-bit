@@ -3,17 +3,21 @@
 }
 h1 {color: white;}
 
-.heading { 
+#heading { 
   background-color: pink ;
 }
-#white {
+.white {
  color: white
 }
 html { background-color: grey;}
 
 .border1 { background-color:white; 
   border: 5px solid orange;
+  width: 300px;
+  padding: 35px;
+  margin: 10px;
+  
 }
-.green { color: rgb(46, 229, 46)}
+.green { color: rgb(166, 250, 92)}
 .yellow { color: yellow}
 .blue { color: lightblue}
